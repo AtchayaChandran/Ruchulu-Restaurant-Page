@@ -28,5 +28,5 @@ This project was created as part of my practice to improve my frontend web devel
 
 ## 🌍 Live Demo
 
-[Live Website](https://your-username.github.io/reestar-clone)
+[Live Website](https://atchayachandran.github.io/Ruchulu-Restaurant-Page/)
 
